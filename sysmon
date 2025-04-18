@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# System Monitor launcher script
+# This script launches the system monitor application
+
+# Get the directory where the script is located
+SCRIPT_DIR="/home/farhan/Documents/system-monitor"
+
+# Change to the script directory and run the monitor
+cd "$SCRIPT_DIR" && python3 "$SCRIPT_DIR/system_monitor.py"
