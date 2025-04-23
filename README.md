@@ -80,7 +80,3 @@ To exit the application, press `Ctrl+C` in the terminal.
 - **Fans**: Displays fan speed as percentage bars with RPM values
 - **Storage**: Shows NVMe and other storage device temperatures
 - **Other**: Displays other system temperature sensors
-
-## License
-
-MIT
